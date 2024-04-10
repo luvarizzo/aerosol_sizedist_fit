@@ -90,9 +90,9 @@ end
 disp('Reading data files')
 
 % file path of input data
-caminho1 = 'C:\Users\LRizzo\Dropbox\Documentos\orientacao\mestrado\Rubens_Pereira\dados_teste_extrapolacao\';
+caminho1 = 'C:\...\';
 % file path of output data
-caminho2 = 'C:\Users\LRizzo\Dropbox\Documentos\orientacao\mestrado\Rubens_Pereira\dados_teste_extrapolacao\lognormal_fit\';
+caminho2 = 'C:\...\';
 
 % file name
 nome = 'smps_example.csv'; 
